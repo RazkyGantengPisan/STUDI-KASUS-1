@@ -1,0 +1,16 @@
+/* Styles Custom (Optional) */
+body {
+  background: linear-gradient(to right, #f0f2f5, #ffffff);
+}
+
+.card {
+  max-width: 500px;
+}
+
+.card-title {
+  font-size: 2em;
+}
+
+.card-subtitle {
+  font-size: 1.2em;
+}
